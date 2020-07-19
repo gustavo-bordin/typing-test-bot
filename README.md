@@ -2,6 +2,8 @@
 
 ### A python bot made to win typing tests at 10fastfingers.com
 
+![Running example](https://github.com/gustavobordinho/typing-test-bot/blob/master/example.gif)
+
 ### 1. What is used? 
 
 - Selenium
