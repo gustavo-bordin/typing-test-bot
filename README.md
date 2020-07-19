@@ -2,7 +2,7 @@
 
 ### A python bot made to win typing tests at 10fastfingers.com
 
-#### 1. What is used? 
+### 1. What is used? 
 
 - Selenium
 ___
@@ -32,4 +32,4 @@ $ cd typing-test-bot
 ```bash
 $ python bot.py mylogin mypassword123
 ```
-2.4. Enjoy!
+#### 2.4. Enjoy!
