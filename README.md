@@ -10,7 +10,7 @@ ___
 
 #### 2.1. First of all, install chromedriver and selenium:
   ##### To install chromedriver, access: https://chromedriver.chromium.org/downloads
-  - Make sure you are installing the same version your google chrome is using.
+  - Make sure you are installing the same version of your google chrome.
   ___
   ##### To install selenium, type:
   ```bash
